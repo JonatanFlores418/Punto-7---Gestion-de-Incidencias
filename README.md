@@ -1,12 +1,13 @@
-## 🚨 IMPORTANTE — LEER ANTES DE EJECUTAR 🚨
+# 🚨 IMPORTANTE — LEER ANTES DE EJECUTAR 🚨
 
 ## ⚠️ Si levantás este proyecto con Docker desde este repositorio, el GLPI se iniciará completamente desde cero.
-Esto es intencional: la base de datos real del equipo no se puede subir a GitHub debido a limitaciones técnicas con los volúmenes de MySQL.
+## Esto es intencional: la base de datos real del equipo no se puede subir a GitHub debido a limitaciones técnicas con los volúmenes de MySQL.
 
-✔ Si querés ver el GLPI REAL con todas las incidencias, usuarios, categorías y trabajo del grupo, accedé aquí:
-🔗 https://bicolor-nondescribable-karri.ngrok-free.dev
+## ✔ Si querés ver el GLPI REAL con todas las incidencias, usuarios, categorías y trabajo del grupo, accedé aquí:
+## 🔗 https://bicolor-nondescribable-karri.ngrok-free.dev
 
-Ese enlace expone el entorno original donde trabajó el equipo y donde se puede verificar el desarrollo completo del Punto 7.
+# Ese enlace expone el entorno original donde trabajó el equipo y donde se puede verificar el desarrollo completo del Punto 7.
+# ¡¡¡ Tener en cuenta que si el ordenador donde se hostea el puero NO ESTA ENCENDIDO, EL ENLACE NO FUNCIONARA!!!
 
 # 📄 **README.md — Punto 7: Gestión de Incidencias con GLPI**
 
@@ -165,9 +166,3 @@ docker compose down -v
 ✅ Implementación funcional
 ✅ GLPI desplegado en contenedores
 ❗ Base del equipo disponible únicamente vía enlace remoto (Ngrok)
-
----
-
-# ¿Querés que el README tenga capturas de pantalla, badges o un diagrama de arquitectura?
-
-Te lo agrego sin problema.
