@@ -1,17 +1,3 @@
-Perfecto Hazi, te armo **un README profesional, claro y apto para presentar**, explicando:
-
-* Qué es el Punto 7
-* Cómo ejecutarlo con Docker
-* Comandos paso a paso
-* Aclaración de por qué la base no está en el repo
-* Enlace al GLPI accesible vía Ngrok
-* Nota para el profesor
-* Estructura prolija estilo proyecto real
-
-Lo dejo listo para copiar y pegar en tu nuevo repo 👇
-Si querés después le agregamos imágenes, badges, o un diagrama.
-
----
 
 # 📄 **README.md — Punto 7: Gestión de Incidencias con GLPI**
 
