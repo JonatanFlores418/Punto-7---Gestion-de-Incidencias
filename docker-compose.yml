@@ -6,6 +6,7 @@ services:
     image: mysql:8
     container_name: glpi-db
     restart: always
+    
     environment:
       MYSQL_ROOT_PASSWORD: rootpass
       MYSQL_DATABASE: glpidb
@@ -22,11 +23,16 @@ services:
       - "8085:80"
     environment:
       TIMEZONE: America/Argentina/Buenos_Aires
+      GLPI_DB_HOST: glpi-db
+      GLPI_DB_NAME: glpidb
+      GLPI_DB_USER: glpi
+      GLPI_DB_PASSWORD: glpipass
     depends_on:
       - glpi-db
-    volumes:
-      - ./glpi:/var/www/html
+    # NO MONTAMOS /var/www/html PARA NO ROMPER GLPI
+    # NO MONTAMOS config ni files porque el git los trae vacíos
 
 networks:
   default:
     driver: bridge
+
