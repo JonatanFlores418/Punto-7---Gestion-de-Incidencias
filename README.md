@@ -1,3 +1,12 @@
+🚨 IMPORTANTE — LEER ANTES DE EJECUTAR 🚨
+
+⚠️ Si levantás este proyecto con Docker desde este repositorio, el GLPI se iniciará completamente desde cero.
+Esto es intencional: la base de datos real del equipo no se puede subir a GitHub debido a limitaciones técnicas con los volúmenes de MySQL.
+
+✔ Si querés ver el GLPI REAL con todas las incidencias, usuarios, categorías y trabajo del grupo, accedé aquí:
+🔗 https://bicolor-nondescribable-karri.ngrok-free.dev
+
+Ese enlace expone el entorno original donde trabajó el equipo y donde se puede verificar el desarrollo completo del Punto 7.
 
 # 📄 **README.md — Punto 7: Gestión de Incidencias con GLPI**
 
