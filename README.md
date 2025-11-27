@@ -9,9 +9,8 @@
  Ese enlace expone el entorno original donde trabajó el equipo y donde se puede verificar el desarrollo completo del Punto 7.
 ## ¡¡¡ Tener en cuenta que si el ordenador donde se hostea el puero NO ESTA ENCENDIDO, EL ENLACE NO FUNCIONARA!!!
 
-# 📄 **README.md — Punto 7: Gestión de Incidencias con GLPI**
 
-## 📌 **Punto 7 – Gestión de Incidencias (GLPI)**
+## 📌 Documentacion de Gestión de Incidencias (GLPI)**
 
 Este repositorio contiene la implementación del **Punto 7** del Trabajo Práctico Final, correspondiente a la **instalación, configuración y uso del sistema de gestión de incidencias GLPI**.
 
