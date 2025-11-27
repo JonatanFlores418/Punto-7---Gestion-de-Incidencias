@@ -1,6 +1,6 @@
-# 🚨 IMPORTANTE — LEER ANTES DE EJECUTAR 🚨
+## 🚨 IMPORTANTE — LEER ANTES DE EJECUTAR 🚨
 
-⚠️ Si levantás este proyecto con Docker desde este repositorio, el GLPI se iniciará completamente desde cero.
+## ⚠️ Si levantás este proyecto con Docker desde este repositorio, el GLPI se iniciará completamente desde cero.
 Esto es intencional: la base de datos real del equipo no se puede subir a GitHub debido a limitaciones técnicas con los volúmenes de MySQL.
 
 ✔ Si querés ver el GLPI REAL con todas las incidencias, usuarios, categorías y trabajo del grupo, accedé aquí:
