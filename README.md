@@ -161,8 +161,3 @@ docker compose down -v
 
 ---
 
-# ✔️ **Estado del punto 7**
-
-✅ Implementación funcional
-✅ GLPI desplegado en contenedores
-❗ Base del equipo disponible únicamente vía enlace remoto (Ngrok)
