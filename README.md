@@ -7,7 +7,7 @@
 ## 🔗 https://bicolor-nondescribable-karri.ngrok-free.dev
 
  Ese enlace expone el entorno original donde trabajó el equipo y donde se puede verificar el desarrollo completo del Punto 7.
-## ¡¡¡ Tener en cuenta que si el ordenador donde se hostea el puero NO ESTA ENCENDIDO, EL ENLACE NO FUNCIONARA!!!
+## ¡¡¡ Tener en cuenta que si el ordenador donde se hostea el puerto NO ESTA ENCENDIDO, EL ENLACE NO FUNCIONARA!!!
 
 
 ## 📌 Documentacion de Gestión de Incidencias (GLPI)**
